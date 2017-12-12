@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Rxjava</string>
+    <string name="just">Just</string>
+    <string name="repeat">Repeat</string>
+    <string name="defer">Defer</string>
+    <string name="range">Range</string>
+    <string name="interval">Interval</string>
+    <string name="timer">Timer</string>
+    <string name="filter">Filter</string>
+    <string name="take">Take</string>
+    <string name="take_last">TakeLast</string>
+    <string name="distinct">Distinct</string>
+    <string name="distinct_until_changed">DistinctUntilChanged</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+    <string name="skip">Skip</string>
+    <string name="skip_last">SkipLast</string>
+    <string name="element_at">ElementAt</string>
+    <string name="sampling">Sample</string>
+    <string name="timeout">Timeout</string>
+    <string name="debounce">Debounce</string>
+    <string name="map">Map</string>
+    <string name="flat_map">FlatMap</string>
+    <string name="concat_map">ConcatMap</string>
+    <string name="switch_map">SwitchMap</string>
+    <string name="scan">Scan</string>
+    <string name="group_by">GroupBy</string>
+    <string name="buffer">Buffer</string>
+    <string name="window">Window</string>
+
+    <string name="filter_observable">过滤操作符</string>
+    <string name="transform_observable">变换操作符</string>
 </resources>
